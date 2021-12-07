@@ -1,0 +1,4 @@
+<canvas
+  canvas-id="{{canvasId}}"
+  style="width:{{cWidth}}px; height:{{cHeight}}px; position:absolute; left:-10000px; top:-10000px;">
+</canvas>
